@@ -1,0 +1,70 @@
+.color1{
+    background-color: #102C57;
+}
+.color2 {
+    background-color: #F3D0D7;
+}
+.color3{
+    background-color: #EADBC8;
+}
+.color4{
+    background-color: #8DECB4;
+}
+
+.highlighted-category{
+    height: 250px;
+}
+.category-jacket{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/jacket.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.category-hoodie{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/hoodie.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.category-tshirt{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/tshirt.webp');
+    background-size: cover;
+    background-position: center;
+}
+.category-pants{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/pants.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.no_decoration{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.no_decoration:hover{
+    color: #8DECB4;
+}
+.text-price{
+    font-size: 22px;
+    color: #102C57;
+}
+.image-box{
+    height: 300px;
+}
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.content-subscribe{
+    background-color: rgba(10, 6, 57, 0.9);
+}
+.banner-product{
+    height: 35vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/benner.jpg');
+    background-position: 50% 49%;
+}
+.related-product-image{
+    height: 70%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
