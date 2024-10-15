@@ -38,10 +38,8 @@
             <div class="container text-center">
                 <h3>About Us</h3>
                 <p class="fs-5  mt-3">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur minus reiciendis
-                     perferendis? Reprehenderit, velit porro sint dolore non natus totam 
-                    quod quisquam harum deleniti nemo perspiciatis necessitatibus consequatur quas! Corporis?ren
-                </p>
+                Lionex Shop is an online web shop that provides a variety of men's clothing. You can access this web for free and you can also become an admin of the web. Customers can buy clothes by contacting whatsapp from the lionex to ask about the products listed on the web and buy them through there.
+</p>
             </div>
         </div>
 
