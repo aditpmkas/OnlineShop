@@ -5,7 +5,7 @@ The goal of this project is to enhance the user experience and functionality of 
 -Aditya Pamungkas
 -Anugrah Ananda Rivai
 -Putri Dinam Nahdiyah
--Bagas Eka Bagus
+-Bagus Eka Bagaskara
 -Task Assignments
 
 *The project involved multiple tasks, including the following updates:
