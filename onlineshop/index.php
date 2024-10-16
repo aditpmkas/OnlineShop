@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="onlineshop-icon" href="icon.png">
 </head>
 <body>
     <?php require "navbar.php"; ?>
@@ -59,6 +60,7 @@
                                 <h4 class="card-title"><?php echo $data['name']?></h4>
                                <p class="card-text text-truncate"><?php echo $data['detail']?></p>
                              <p class="card-text text-price">Rp <?php echo $data['price']?></p>
+                             <a href="product-detail.php?name=<?php echo $data['name'];?>" class="btn color1 text-white smoke">See Details</a>
                              </div>
                          </div>
                        </div>
