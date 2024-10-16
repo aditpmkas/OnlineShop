@@ -5,6 +5,9 @@
             <div class="col-sm-1 d-flex justify-content-center mb-2">
                 <i class="fab fa-facebook fs-1"></i>
             </div>
+             <div class="col-sm-1 d-flex justify-content-center mb-2">
+                <i class="fab fa-whatsapp fs-1"></i>
+            </div>
         </div>
       </div>
     </div>
