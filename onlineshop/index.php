@@ -80,7 +80,7 @@
 
         <div class="container-fluid py-5">
             <div class="container text-center">
-                <h1>Product</h1>
+                <h3>Product</h3>
                 
                 <div class="row mt-5">
                        <?php while($data = mysqli_fetch_array($queryProduct)){  ?>
