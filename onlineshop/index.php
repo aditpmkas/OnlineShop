@@ -19,7 +19,8 @@
 
     <div class="container-fluid banner d-flex align-items-center">
         <div class="container text-center text-white smoke">
-
+            <h1>Lionex Shop</h1>
+            <h3>What are you looking for?</h3>
            <div class="col-md-8 offset-md-2">
             <form method="get" action="product.php">
                 <div class= "input-group input-group-lg my-4" >
