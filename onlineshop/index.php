@@ -64,6 +64,7 @@
                        </div>
                        <?php }?>
                    </div>
+                    <a class="btn btn-outline-primary mt-3 p-3 fs-4" href="product.php">See More</a>
                </div>
             </div>
 <?php require "footer.php";?>
