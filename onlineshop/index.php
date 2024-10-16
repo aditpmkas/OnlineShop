@@ -34,6 +34,39 @@
         </div>
     </div>
 
+    <div class="container-fluid py-5">
+            <div class="container text-center">
+               <h3>Best Category</h3>
+
+
+               <div class="row mt-4">
+                <div class="col-md-3 mb-2">
+                    <div class="highlighted-category category-jacket d-flex 
+                    justify-content-center align-items-center">
+                    <h4 class="text-white"><a class="no_decoration" href="product.php?category=Jacket">Jacket</a></h4>
+                </div>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <div class="highlighted-category category-hoodie d-flex 
+                    justify-content-center align-items-center">
+                    <h4 class="text-white"><a class="no_decoration" href="product.php?category=Hoodie">Hoodie</a></h4>
+                </div>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <div class="highlighted-category category-tshirt d-flex 
+                    justify-content-center align-items-center">
+                    <h4 class="text-white"><a class="no_decoration" href="product.php?category=T-SHIRT">T-shirt</a></h4>
+                </div>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <div class="highlighted-category category-pants d-flex 
+                    justify-content-center align-items-center">
+                    <h4 class="text-white"><a class="no_decoration" href="product.php?category=Pants">Pants</a></h4>
+                </div>
+                </div>
+               </div>
+            </div>
+        </div>
        
 
         <div class="container-fluid color2 py-5">
